@@ -1,0 +1,105 @@
+Code Snippet 1
+
+  Console:
+    > hello
+    > Dojo
+
+Code Snippet 2
+
+  ----------+---------------------
+     result | 15
+
+  Console:
+    > hello
+    > result is15
+
+Code Snippet 3
+
+  ----------+---------------------
+     result | 18
+
+  Console:
+    > num is3
+    > x is18
+
+Code Snippet 4
+
+  ----------+---------------------
+        num | 15
+     result | 10
+
+  Console:
+    > 15
+    > 10
+    > 10
+    > 15
+
+Code Snippet 5
+
+  ----------+---------------------
+        num | 15
+     result | 20
+
+  Console:
+    > 15
+    > 10
+    > 20
+    > 15
+
+Code Snippet 6
+
+  ----------+---------------------
+          y | 6
+            | 10
+     result | 16
+
+  Console:
+    > num is3
+    > num is5
+    > result is16
+
+Code Snippet 7
+
+  Console:
+    > 5
+    > 8
+
+Code Snippet 8
+
+  Console:
+    > 2
+    > 5
+    > 3
+    > 8
+
+Code Snippet 9
+
+  ----------+---------------------
+        sum | 5
+            | 8
+     result | 13
+
+  Console:
+    > sum is5
+    > sum is8
+    > result is13
+
+Code Snippet 10
+
+  ----------+---------------------
+        sum | 5
+            | 3
+            | 6
+            | 3
+            | 5
+            | 8
+     result | 19
+
+  Console:
+    > sum is5
+    > sum is3
+    > sum is6
+    > sum is3
+    > sum is5
+    > sum is8
+    > result is19
